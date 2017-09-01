@@ -35,6 +35,8 @@ Steps to run the project:
 6. Enter the address provided by ngrok in the app in suitable format.
 7. Now, enter the train number and date of journey in suitable format in the Android app and press the run button.
 8. Wait for sometime, the message will be displayed in place of the Result text below the Run button depicting the predicted delay.
+
+
 Team Members:
 1. Ankush Patel
 2. Suraj Tripathi
